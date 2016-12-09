@@ -552,7 +552,7 @@ Runner.prototype = {
           Math.ceil(this.distanceRan));
 
       if (playAcheivementSound) {
-        this.playSound(this.soundFx.SCORE);
+       // this.playSound(this.soundFx.SCORE);
       }
     }
 
